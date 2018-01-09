@@ -4,7 +4,7 @@ This is a mockup design for an universal hardware controller that could work wit
 It is only a concept and I'm happy about feedback. There's also a little bit of unused space available on the front-plate for new feature ideas.  
 You can find a real world picture of every component by following the matching links in the Bill of Materials below.
 
-![](./video-controller-mockup.png)
+![](./voctomix-controller-mockup.png)
 
 | Element | Component (Group) | Description / Use Cases |
 |:----:|---|---|
