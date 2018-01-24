@@ -48,7 +48,7 @@ This is a advanced feature and may not be useful for 99% of the use cases of thi
 | `1`  | Neutrik NAUSB-W Reversible USB 2.0 gender changer (type A and B), Nickel D-housing | <http://www.neutrik.com/en/multimedia/usb/nausb-w> |
 | `2`  | Neutrik etherCON NE8FDP RJ45 feedthrough receptacle | <http://www.neutrik.com/en/data/ethercon/d-series/ne8fdp> |
 | `3`  | Neutrik powerCON NAC3MPA-1 Chassis connector, power-in, 3/16" flat tab terminals, blue | <http://www.neutrik.com/en/powercon-20a/powercon-20-a/nac3mpa-1> |
-| `4`, `5`, `6`, `7` | OLED Display 0.96" 128x64 White on Black | <http://www.buydisplay.com/default/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black> |
+| `4`, `5`, `6`, `7` | OLED Display 0.96" 128x64 White on Black | <http://www.buydisplay.com/default/128x64-oled-i2c-0-96-display-white-color-connector-fpc-ssd1306> |
 | `8`, `9`  | OLED Display 3.2" 256x64 White on Black | <http://www.buydisplay.com/default/serial-3-2-inch-display-arduino-256x64-oled-screen-module-white-on-black> |
 | `10` and every other button | Illuminated (RGB) tactile push button (17,4mm / 12mm) | <http://www.lakeview.com.hk/up_pic/201731613595571016.pdf> |
 | `12`  | Color LCD Display 2.6" 240x320 | <http://www.buydisplay.com/default/color-2-6-inch-tft-lcd-module-display-touch-panel-240x320-dot-serial-spi> |
