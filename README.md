@@ -51,7 +51,7 @@ This is a advanced feature and may not be useful for 99% of the use cases of thi
 | `4`, `5`, `6`, `7` | OLED Display 0.96" 128x64 White on Black | <http://www.buydisplay.com/default/datasheet-128x64-oled-module-spi-0-96-inch-graphic-displays-white-on-black> |
 | `8`, `9`  | OLED Display 3.2" 256x64 White on Black | <http://www.buydisplay.com/default/serial-3-2-inch-display-arduino-256x64-oled-screen-module-white-on-black> |
 | `10` and every other button | Illuminated (RGB) tactile push button (17,4mm / 12mm) | <http://www.lakeview.com.hk/up_pic/201731613595571016.pdf> |
-| `12`  | OLED Display 2.42" 128x64 White on Black | <https://de.aliexpress.com/item/2-4-inch-24PIN-SPI-White-Yellow-COG-OLED-Display-Screen-SPD0301-Drive-IC-128-64/32842719317.html> |
+| `12`  | Color LCD Display 2.6" 240x320 | <http://www.buydisplay.com/default/color-2-6-inch-tft-lcd-module-display-touch-panel-240x320-dot-serial-spi> |
 | `13`  | Rotary encoder with switch | <https://de.aliexpress.com/item/5PCS-LOT-Original-Rotary-encoder-code-switch-EC11-digital-potentiometer-with-switch-5Pin-handle-length-15mm/32685033240.html> |
 | `14`  | 60mm Slide Potentiometer | <http://www.bourns.com/docs/Product-Datasheets/pta.pdf> |
 | Case | Bopla Alu-Topline ATPH 1850-0300 | <https://www.bopla.de/en/enclosure-technology/product/alu-topline.html> |
