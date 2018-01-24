@@ -56,6 +56,48 @@ This is a advanced feature and may not be useful for 99% of the use cases of thi
 | `14`  | 60mm Slide Potentiometer | <http://www.bourns.com/docs/Product-Datasheets/pta.pdf> |
 | Case | Bopla Alu-Topline ATPH 1850-0300 | <https://www.bopla.de/en/enclosure-technology/product/alu-topline.html> |
 
+## Changelog
+
+### v1.2.0
+
+```
+# mockup
+
+- add a clock to the main display
+- add "A" and "B" source indicators to composition mode pictograms
+- exchange main oled display with a larger color lcd screen
+- exchange several button markings: "take" -> "cut" and "auto" -> "auto fade"
+
+# readme
+
+- add a changelog
+- update 0.96" oled link to ones that have a fpc connector
+```
+
+### v1.1.1
+
+```
+# other
+
+- fix framing of exported png
+```
+
+### v1.1.0
+
+```
+# mockup
+
+- remove bar graph display next to the transition fader
+- add a new "auto" button next to the transition fader
+- add a transition time setting to the main display
+```
+
+### v1.0.0
+
+```
+Initial Mockup.
+```
+
 ## License
 
 ![](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
